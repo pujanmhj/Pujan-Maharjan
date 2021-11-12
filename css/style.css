@@ -1,0 +1,52 @@
+.part-1{
+    background-color: #2475f8;
+    text-align: center;
+
+   
+}
+
+body{
+    margin: 0px;
+}
+
+.column-two{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.img-2{
+    flex: 1;
+    padding: 100px;
+    
+}
+.head{
+    flex: 1;
+    padding: 10px;
+    text-align: left;
+}
+
+.buttom{
+    padding: 10px;
+    margin: none;
+    background-color: darkgray;
+}
+
+.part-2{
+    background-color: #C1CADF;
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.img1{
+    flex: 1;
+}
+.img2{
+    flex: 1;
+}
+.img3{
+    flex: 1;
+}
